@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on **January 1, 2024**
 Completed Codecademy Python Code Challenges: Strings (Advanced).
 
 ### R1D2
+Completed Codecademy Python Code Challenges: Dictionaries. 
