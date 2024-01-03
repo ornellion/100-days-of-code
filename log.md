@@ -57,3 +57,21 @@ I created functions that:
 **Thoughts**:
 
 I see the progress in my approach and my knowledge is slowly but surely coming together. I see that I have a similar issue with dictionaries as I do with indexes - I struggle with finding the correct syntax to call the information I want. I also need to get ahead of my bad habit of sticking unnecessary if statements all over the shop. 
+
+---
+### Day 2: January 3, 2024
+
+**Today's Progress**: 
+
+Today I spent 1hr 30 on Pythong Code Challenges: Dictionaries (Advanced) and Classes 
+
+I created functions that: 
+- Creates a new dictionary where the key is a word and the value is the length of the word
+- Counts the frequency of each string within a list of elements
+- Counts how many unique values are within a dictionary
+- Calculates the number of people have the same first letter in their last name
+
+For the Classes challenge I created a new class, initialised the instance variables and created an object from the class. 
+
+**Thoughts**:
+I see the benefit of having both simpler and more advanced challenges. Sometimes the simpler challenges are the hardest as I overthink, but then by the time I get to the more advanced challenges I have the foundations down. I'm 100& getting better at finding the solutions to my questions on StackOverFlow. 
