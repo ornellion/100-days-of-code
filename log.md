@@ -63,7 +63,7 @@ I see the progress in my approach and my knowledge is slowly but surely coming t
 
 **Today's Progress**: 
 
-Today I spent 1hr 30 on Pythong Code Challenges: Dictionaries (Advanced) and Classes 
+Today I spent 1hr 30 on Python Code Challenges: Dictionaries (Advanced) and Classes 
 
 I created functions that: 
 - Creates a new dictionary where the key is a word and the value is the length of the word
@@ -75,3 +75,22 @@ For the Classes challenge I created a new class, initialised the instance variab
 
 **Thoughts**:
 I see the benefit of having both simpler and more advanced challenges. Sometimes the simpler challenges are the hardest as I overthink, but then by the time I get to the more advanced challenges I have the foundations down. I'm 100& getting better at finding the solutions to my questions on StackOverFlow. 
+
+---
+
+### Day 3: January 4, 2023
+
+**Today's Progress**: 
+
+Today I completed the Codecademy [Learn Python 3](https://www.codecademy.com/enrolled/courses/learn-python-3) Course! 
+
+For the last Classes Code Challenge, I: 
+- Created class methods
+- Used a constructor to automatically assign values to instance variables
+- Created class variables to update all the objects at once
+- Created a class variable counter which increments and is assigned to an instance variable whenever the constructor is called 
+
+**Thoughts**:
+I'm on a 9 week study streak (started my coding journey October 17, 2023) and feel immensely proud to have stuck it out through the learning curve. The suggested next steps is to take the Intermediate Course and look at Technical Interview questions. 
+
+I think I'm going to return to working on my Data Science Foundations which has a Python Fundamentals project as well as looking at Python Pandas. I'm also going to progress through the Git & GitHub course. From there I want to review the Python concepts and also push any projects to GitHub to make sure I fully understood them. Only then will I move onto Intermediate Python. 
