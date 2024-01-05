@@ -18,3 +18,6 @@ Started the Classes Challenge.
 Completed the Codecademy Python Code Challenges: Classes.
 
 Completed [Learn Python 3](https://www.codecademy.com/enrolled/courses/learn-python-3) course. 
+
+### R1D5
+Started the Full-Stack Engineering Path on Codecademy. 
