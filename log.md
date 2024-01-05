@@ -16,8 +16,8 @@
 **Thoughts**:
 -->
 
-### Day 0: January 1, 2024 
-*Normally I would start on Day One but in the spirit of Computer Science, let's go with Day 0*
+### Day 1: January 1, 2024 
+*Originally started this on Day 0 but I preferred it this way*
 
 **Today's Progress**: 
 
@@ -41,7 +41,7 @@ This is my first day using GitHub so I still need to figure out how to push code
 
 ---
 
-### Day 1: January 2, 2024
+### Day 2: January 2, 2024
 
 **Today's Progress**: 
 
@@ -59,7 +59,7 @@ I created functions that:
 I see the progress in my approach and my knowledge is slowly but surely coming together. I see that I have a similar issue with dictionaries as I do with indexes - I struggle with finding the correct syntax to call the information I want. I also need to get ahead of my bad habit of sticking unnecessary if statements all over the shop. 
 
 ---
-### Day 2: January 3, 2024
+### Day 3: January 3, 2024
 
 **Today's Progress**: 
 
@@ -78,7 +78,7 @@ I see the benefit of having both simpler and more advanced challenges. Sometimes
 
 ---
 
-### Day 3: January 4, 2023
+### Day 4: January 4, 2023
 
 **Today's Progress**: 
 
@@ -93,4 +93,13 @@ For the last Classes Code Challenge, I:
 **Thoughts**:
 I'm on a 9 week study streak (started my coding journey October 17, 2023) and feel immensely proud to have stuck it out through the learning curve. The suggested next steps is to take the Intermediate Course and look at Technical Interview questions. 
 
-I think I'm going to return to working on my Data Science Foundations which has a Python Fundamentals project as well as looking at Python Pandas. I'm also going to progress through the Git & GitHub course. From there I want to review the Python concepts and also push any projects to GitHub to make sure I fully understood them. Only then will I move onto Intermediate Python. 
+---
+### Day 5: January 5, 2023
+
+**Today's Progress**: 
+Decided to pivot to Full-Stack Engineering. Started with *Welcome to Full-Stack Engineering* Unit on Codecademy. Started with a broad overview of how the internet works. I simultaneously know and always forget that the World Wide Web was invented by Tim Berners-Lee. 
+
+**Thoughts**:
+Why the sudden pivot? I had the niggling feeling that I wasn't really Data Science path but I put that down to the learning curve and told myself to at least get to the off-platform project. My reaction was: immediately no. 
+
+My previous roadblocks to learning web development was the learning curve that comes with JavaScript but I enjoyed the challenge of the OOP Python classes. I didn't consider pursuing Full-Stack development purely based on the idea that it's high competition. But it's also what I'm interested in. And one of my new year resolution's is to follow my curiosity. 
