@@ -21,3 +21,8 @@ Completed [Learn Python 3](https://www.codecademy.com/enrolled/courses/learn-pyt
 
 ### R1D5
 Started the Full-Stack Engineering Path on Codecademy. 
+
+### R1D6 
+Completed an Overview of the Internet & Languages for Web Development. 
+
+Started Responsive Web Design on freeCodeCamp. Progress on Building a Cat Photo App 46/69. 
